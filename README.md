@@ -1,8 +1,5 @@
 # [`snippets-golang-leetcode`][repo]
 
-<!-- shields -->
-[![shield-in-progress]][repo]
-
 <!-- internal links -->
 
 <!-- external links -->
