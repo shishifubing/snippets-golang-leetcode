@@ -1,9 +1,12 @@
-# [`snippets-golang-leetcode`][url-repo]
+<div align="center" markdown="1">
 
+# [`snippets-golang-leetcode`][url-repo]
 
 [![License][shield-license]][url-license]
 
-Some leetcode tasks
+Leetcode tasks
+
+</div>
 
 <!-- relative links -->
 
